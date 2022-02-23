@@ -1,0 +1,8 @@
+{
+  "name": "tracer",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.4.0",
+    "wrangler": "^0.0.17"
+  }
+}
